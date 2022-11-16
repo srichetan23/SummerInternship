@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.loginpage{
+  margin-top: 10px;
+}
+.username{
+  margin-left: 5px;
+  margin-right: 5px;
+}
